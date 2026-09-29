@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Salut, je suis Adja Aïcha DIARRA</h1>
+<p align="center">Développeuse Web Full-Stack passionnée par la création de solutions digitales utiles et modernes.</p>
 
-<!--
-**adja46250-arch/adja46250-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/adja-aïcha-diarra-b68701386"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:adja46250@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+## Sur aicha
+```js
+const moi = {
+  role: "Développeuse Full-Stack & Mobile",
+  passion: "Passionnée par la technologie et par tout ce qu'elle permet de créer",
+  stack: ["PHP", "Java", "React", "JavaScript"],
+  databases: ["MySQL", "PostgreSQL", "Supabase"],
+  mobile: ["Flutter", "Dart"],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+### Langages et frontend
+<img src="https://skillicons.dev/icons?i=php,java,js,react">
+
+### Bases de données
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase">
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart">
+
+## Statistiques
+<img src="https://github-readme-stats.vercel.app/api?username=adja&show_icons=true&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=adja&theme=tokyonight">
