@@ -28,6 +28,4 @@ const moi = {
 ### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart">
 
-## Statistiques
-<img src="https://github-readme-stats.vercel.app/api?username=adja&show_icons=true&theme=tokyonight">
-<img src="https://streak-stats.demolab.com?user=adja&theme=tokyonight">
+
